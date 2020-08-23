@@ -1,30 +1,27 @@
 ﻿Your Estimate,,,,
 Service Type,Components,Region,Component Price,Service Price
-Amazon EC2 Service (US East (N. Virginia)),,,,$723.58 
-,Compute:,US East (N. Virginia),$723.58 ,
-,Reserved Instances (one-time fee):,US East (N. Virginia),$0 ,
-Amazon S3 Service (US East (N. Virginia)),,,,$0.05 
-,S3 Standard Storage:,US East (N. Virginia),$0.03 ,
-,S3 Standard Put Requests:,US East (N. Virginia),$0.01 ,
+Amazon EC2 Service (US East (N. Virginia)),,,,"$8,481.72 "
+,Compute:,US East (N. Virginia),"$8,470.12 ",
+,EBS Volumes:,US East (N. Virginia),$8 ,
+,EBS IOPS:,US East (N. Virginia),$0 ,
+,Elastic IPs:,US East (N. Virginia),$3.60 ,
+Amazon S3 Service (US East (N. Virginia)),,,,$911.78 
+,S3 Standard Storage:,US East (N. Virginia),$23.56 ,
+,S3 Standard Put Requests:,US East (N. Virginia),$5 ,
 ,S3 Standard Other Requests:,US East (N. Virginia),$0.01 ,
-Amazon CloudFront Service,,,,$0.15 
-,Data Transfer Out:,Global,$0.09 ,
-,Data Transfer Out to Origin:,Global,$0.02 ,
-,Requests:,Global,$0.04 ,
-Amazon RDS Service (US East (N. Virginia)),,,,"$1,362.76 "
-,DB instances:,US East (N. Virginia),"$1,133.14 ",
-,Storage:,US East (N. Virginia),$29.60 ,
-,I/O:,US East (N. Virginia),$200 ,
-,Inter-Region Data Transfer Out:,US East (N. Virginia),$0.02 ,
-Amazon Elastic Load Balancing (US East (N. Virginia)),,,,$33.88 
-,Application LBs:,US East (N. Virginia),$33.88 ,
-AWS Data Transfer In,,,,$0 
-,US East (N. Virginia) Region:,Global,$0 ,
-AWS Data Transfer Out,,,,$0 
-,US East (N. Virginia) Region:,Global,$0 ,
-AWS Support (Business),,,,$209.61 
-,Support for all AWS services:,,$209.61 ,
-,,Free Tier Discount:,,($24.38)
-,,Total Monthly Payment:,,"$2,305.65 "
-,,,,
-,,Total Yearly,,"$27,667.80 "
+,S3 Standard Select Data Returned:,US East (N. Virginia),$0.01 ,
+,S3 Standard - IA Storage:,US East (N. Virginia),$64 ,
+,S3 Glacier - Storage:,US East (N. Virginia),$819.20 ,
+Amazon CloudFront Service,,,,$1.05 
+,Data Transfer Out:,Global,$0.85 ,
+,Data Transfer Out to Origin:,Global,$0.20 ,
+Amazon RDS Service (US East (N. Virginia)),,,,"$9,823.02 "
+,DB instances:,US East (N. Virginia),"$9,816.12 ",
+,Storage:,US East (N. Virginia),$6.90 ,
+Amazon Elastic Load Balancing (US East (N. Virginia)),,,,$32.94 
+,Application LBs:,US East (N. Virginia),$32.94 ,
+Amazon VPC Service (US East (N. Virginia)),,,,$69.99 
+,NAT Gateway,US East (N. Virginia),$33.39 ,
+AWS Support (Basic),,,,$0 
+,Support for all AWS services:,,$0 ,
+,,Total Monthly Payment:,,"$19,320.50 "

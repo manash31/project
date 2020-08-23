@@ -1,5 +1,0 @@
-﻿1) Increased EC2 instance size for web and application server
-
-2) Changed instance type for RDS for beter performance.
-
-3) Increased S3 Standard Storage Type
