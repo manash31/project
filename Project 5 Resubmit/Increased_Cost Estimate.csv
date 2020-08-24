@@ -1,0 +1,58 @@
+﻿Your Estimate,,,,
+Service Type,Components,Region,Component Price,Service Price
+Amazon EC2 Service (US East (N. Virginia)),,,,"$13,498.48 "
+,Compute:,US East (N. Virginia),"$13,224.68 ",
+,EBS Volumes:,US East (N. Virginia),$10 ,
+,EBS IOPS:,US East (N. Virginia),$260 ,
+,EBS Snapshots:,US East (N. Virginia),$0.20 ,
+,Reserved Instances (one-time fee):,US East (N. Virginia),$0 ,
+,Elastic IPs:,US East (N. Virginia),$3.60 ,
+Amazon S3 Service (US East (N. Virginia)),,,,$896.55 
+,S3 INT - Storage:,US East (N. Virginia),$12.80 ,
+,S3 INT - Put Requests:,US East (N. Virginia),$0.50 ,
+,S3 INT - Other Requests:,US East (N. Virginia),$0.04 ,
+,S3 INT - Lifecycle Transitions:,US East (N. Virginia),$0.01 ,
+,S3 Standard - IA Storage:,US East (N. Virginia),$64 ,
+,S3 Glacier - Storage:,US East (N. Virginia),$819.20 ,
+Amazon Route 53 Service,,,,$233.50 
+,Hosted Zones:,Global,$0.50 ,
+,Traffic Flow:,Global,$50 ,
+,Resolver:,Global,$183 ,
+Amazon CloudFront Service,,,,$1.84 
+,Data Transfer Out:,Global,$0.85 ,
+,Data Transfer Out to Origin:,Global,$0.20 ,
+,Requests:,Global,$0.79 ,
+Amazon RDS Service (US East (N. Virginia)),,,,"$4,944.78 "
+,DB instances:,US East (N. Virginia),"$3,935.28 ",
+,Storage:,US East (N. Virginia),$200 ,
+,I/O:,US East (N. Virginia),$800 ,
+,Backups:,US East (N. Virginia),$9.50 ,
+Amazon Elastic Load Balancing (US East (N. Virginia)),,,,$37.63 
+,Application LBs:,US East (N. Virginia),$37.63 ,
+Amazon CloudWatch Service (US East (N. Virginia)),,,,$4.51 
+,Standard Alarms:,US East (N. Virginia),$1.50 ,
+,Dashboard:,US East (N. Virginia),$3 ,
+,Custom events:,US East (N. Virginia),$0.01 ,
+Amazon SNS Service (US East (N. Virginia)),,,,$0 
+,Requests:,US East (N. Virginia),$0 ,
+Amazon Glacier Service (US East (N. Virginia)),,,,$8 
+,Storage:,US East (N. Virginia),$4.10 ,
+,Data Retrieval (Standard):,US East (N. Virginia),$0.90 ,
+,Data Retrieval (Expedited):,US East (N. Virginia),$3 ,
+Amazon VPC Service (US East (N. Virginia)),,,,$69.99 
+,VPN Connection:,US East (N. Virginia),$36.60 ,
+,NAT Gateway,US East (N. Virginia),$33.39 ,
+AWS KMS Service (US East (N. Virginia)),,,,$4 
+,Customer Master Keys (CMK),US East (N. Virginia),$4 ,
+AWS Data Transfer In,,,,$0 
+,US East (N. Virginia) Region:,Global,$0 ,
+AWS Data Transfer Out,,,,$8.91 
+,US East (N. Virginia) Region:,Global,$8.91 ,
+AWS Support (Basic),,,,$0 
+,Support for all AWS services:,,$0 ,
+,,Total Monthly Payment:,,"$19,708.19 "
+,,,,
+,,,,
+,,,,
+Explanation:,Changed more performant EC2 servers,,,
+,    Changed Storage to more faster types such as provisioned iops SSDs and throughput optimized SSDs,,,
